@@ -1,4 +1,4 @@
-# Inspecting_Electric_Vehicle_Charging_Trends
+# Inspecting Electric Vehicle Charging Trends
 
 <img src= "https://github.com/mhshehata/Inspecting_Electric_Vehicle_Charging_Trends/blob/main/ev_charging.png" >
 
