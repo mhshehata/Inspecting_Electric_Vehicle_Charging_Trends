@@ -8,7 +8,7 @@ The US Government's Alternative Fuels Data Center maintains a comprehensive data
 This yearly data, collected in December of each year, provides a decade-long snapshot of EV charging port installations and station locations, encompassing both public and private charging environments.
 
 
-<img src= "https://github.com/mhshehata/Inspecting_Electric_Vehicle_Charging_Trends/blob/main/ev_results.png"
+<img src= "https://github.com/mhshehata/Inspecting_Electric_Vehicle_Charging_Trends/blob/main/ev_results.png">
 
 ## General Trends
 
