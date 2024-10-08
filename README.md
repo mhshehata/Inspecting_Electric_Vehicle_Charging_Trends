@@ -12,7 +12,7 @@ This yearly data, collected in December of each year, provides a decade-long sna
 
 ## General Trends
 
-<b>Growth in Private Ports:</b> The number of private ports has seen a steady increase over the years.
+<b>- Growth in Private Ports:</b> The number of private ports has seen a steady increase over the years.
 
 <b>Moderate Growth in Public Ports:</b> Public ports have also increased, but at a slower rate compared to private ports.
 
