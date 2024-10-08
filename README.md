@@ -23,7 +23,7 @@ Private Ports vs. Public Ports: While private ports have grown consistently, the
 
 ## Potential Implications
 
-Market Demand: The rapid increase in sales indicates a growing demand for electric vehicles, driving the need for more charging infrastructure.
+<b>Market Demand:<b> The rapid increase in sales indicates a growing demand for electric vehicles, driving the need for more charging infrastructure.
 Infrastructure Investment: The growth in private ports suggests that private entities are investing heavily in charging infrastructure, potentially filling the gaps left by public infrastructure.
 Policy Impact: Government policies and incentives might be playing a role in shaping the growth of both private and public charging infrastructure.
 Further Analysis:
